@@ -1,0 +1,23 @@
+# ninja log v5
+28	1795	7640035160281045	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	39bf6fcd501e953
+35	1858	7640035160416987	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	19dc78f0f756d66b
+21	1923	7640035161324069	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b1fa871c165d93d7
+1859	3169	7640035174282381	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6af169023a09f13c
+15	2214	7640035164047288	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bf3a4f60fbd5e8e0
+1796	3050	7640035173064275	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	aa124e77204358c0
+42	2530	7640035167632670	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c384ef63d9e760fc
+1923	2215	7640035164243429	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1775bba7784a7d36
+6	2710	7640035169501626	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f62868d8516cb63f
+2215	2771	7640035170201684	C:/Projects/MiaWorldTZ/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4k3y1u3u/obj/arm64-v8a/libswappywrapper.so	933608fd91dd9f67
+3169	3309	7640035175682462	C:/Projects/MiaWorldTZ/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4k3y1u3u/obj/arm64-v8a/libgame.so	43c0a83e3161446
+49	1745	7640229600890646	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	19dc78f0f756d66b
+16	1764	7640229601220447	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b1fa871c165d93d7
+9	1806	7640229601480304	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	39bf6fcd501e953
+27	2077	7640229604083882	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bf3a4f60fbd5e8e0
+42	2295	7640229606652417	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c384ef63d9e760fc
+1806	2312	7640229606977311	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1775bba7784a7d36
+36	2455	7640229608436460	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f62868d8516cb63f
+2313	2728	7640229611201123	C:/Projects/MiaWorldTZ/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4k3y1u3u/obj/arm64-v8a/libswappywrapper.so	933608fd91dd9f67
+1747	2821	7640229612110607	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	aa124e77204358c0
+1764	2905	7640229612945379	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6af169023a09f13c
+2905	3060	7640229614465875	C:/Projects/MiaWorldTZ/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4k3y1u3u/obj/arm64-v8a/libgame.so	43c0a83e3161446
